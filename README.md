@@ -1,5 +1,5 @@
 - 👋 Hi, I’m meziany Said
-- 👀 I’m interested in developping the sites and apps web.
+- 👀 I’m interested in developping the web sites and web apps.
 - 🌱 I’m currently learning new skills like deep learning and machine learning.
 
 <!---
